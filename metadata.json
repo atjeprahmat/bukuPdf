@@ -1,0 +1,6 @@
+{
+  "name": "PDF Reader & AI Assistant",
+  "description": "An interactive PDF reader that automatically summarizes uploaded documents, enables rapid in-content search, and includes an embedded AI assistant to analyze and answer questions about the books.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
